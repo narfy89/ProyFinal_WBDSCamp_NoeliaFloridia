@@ -148,3 +148,6 @@ fig = circos.plotfig()
 plt.savefig("Minicirculo_plot.png")
 
 ```
+Aqui dejo un video explicativo del script:
+
+https://youtu.be/EIOu1MIqR2Q
